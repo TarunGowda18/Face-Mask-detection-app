@@ -1,8 +1,4 @@
 streamlit
-tensorflow
 numpy
-pillow
-matplotlib
-seaborn
-scikit-learn
-pandas
+tensorflow>=2.15.0
+Pillow
